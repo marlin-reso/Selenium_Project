@@ -46,6 +46,8 @@ public class AssertPractice {
 		System.out.println("commit 1");
 			
 	        System.out.println("Testing the function of jenkins");
+			
+		System.out.println("Testing the function of jenkins-1");
 		
 
 		}	
